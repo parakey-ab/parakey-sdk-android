@@ -2,7 +2,7 @@
 <html class="no-js">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
-    <title>valueOf</title>
+    <title>configure</title>
     <link href="../../../images/logo-icon.svg" rel="icon" type="image/svg">
     <script>var pathToRoot = "../../../";</script>
     <script>document.documentElement.classList.replace("no-js","js");</script>
@@ -39,14 +39,14 @@
     <div class="root">
     <nav class="navigation theme-dark" id="navigation-wrapper">
             <a class="library-name--link" href="../../../index.html">
-                    Parakey SDK
+                    Parakey SDK for Android
             </a>
         <button class="navigation-controls--btn navigation-controls--btn_toc ui-kit_mobile-only" id="toc-toggle"
                 type="button">Toggle table of contents
         </button>
         <div class="navigation-controls--break ui-kit_mobile-only"></div>
         <div class="library-version" id="library-version">
-v1.0.6        </div>
+v1.0.0        </div>
         <div class="navigation-controls">
         <div class="filter-section filter-section_loading" id="filter-section">
                 <button class="platform-tag platform-selector jvm-like" data-active=""
@@ -92,7 +92,7 @@ v1.0.6        </div>
                         data-role="dropdown-listbox">
                         <div class="dropdown--header">
                             <span>
-                                    Parakey SDK
+                                    Parakey SDK for Android
                             </span>
                             <button class="button" data-role="dropdown-toggle" aria-label="Close table of contents">
                                 <i class="ui-kit-icon ui-kit-icon_cross"></i>
@@ -104,12 +104,12 @@ v1.0.6        </div>
                 </div>
             </div>
             <div id="main">
-<div class="main-content" data-page-type="member" id="content" pageIds="Parakey SDK::co.parakey.sdk/ParakeyError/valueOf/#kotlin.String/PointingToDeclaration//-1929606093">
-  <div class="breadcrumbs"><a href="../../../index.html">Parakey SDK</a><span class="delimiter">/</span><a href="../index.html">co.parakey.sdk</a><span class="delimiter">/</span><a href="index.html">ParakeyError</a><span class="delimiter">/</span><span class="current">valueOf</span></div>
+<div class="main-content" data-page-type="member" id="content" pageIds="Parakey SDK for Android::co.parakey.sdk/Parakey/configure/#kotlin.String/PointingToDeclaration//-1929606093">
+  <div class="breadcrumbs"><a href="../../../index.html">Parakey SDK for Android</a><span class="delimiter">/</span><a href="../index.html">co.parakey.sdk</a><span class="delimiter">/</span><a href="index.html">Parakey</a><span class="delimiter">/</span><span class="current">configure</span></div>
   <div class="cover ">
-    <h1 class="cover"><span>value</span><wbr></wbr><span><span>Of</span></span></h1>
+    <h1 class="cover"><span><span>configure</span></span></h1>
   </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk/release"><div class="symbol monospace"><span class="token keyword">fun </span><a href="value-of.html"><span class="token function">valueOf</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="index.html">ParakeyError</a></div><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p><h4 class="">Throws</h4><div class="table"><div class="table-row" data-filterable-current=":sdk/release" data-filterable-set=":sdk/release"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-illegal-argument-exception/index.html"><span>Illegal</span><wbr></wbr><span>Argument</span><wbr></wbr><span><span>Exception</span></span></a></div></span></div><div><div class="title"><p class="paragraph">if this enum type has no constant with the specified name</p></div></div></div></div></div></div></div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk/release"><div class="symbol monospace"><span class="token keyword">suspend </span><span class="token keyword">fun </span><a href="configure.html"><span class="token function">configure</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">tokenBundle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../-parakey-error/index.html">ParakeyError</a><span class="token operator">?</span></div><p class="paragraph">Validates and saves the provided token bundle. The SDK needs a valid bundle to unlock locks.</p><p class="paragraph">The token bundle will be persisted between app starts. Calling with a new token bundle will clear all user data and prepare a new session. Calling with an already persisted bundle will not have any effect.</p><br/><blockquote class="quotation"><p class="paragraph">Note: Can't be called before <a href="initialize.html">initialize</a>.</p></blockquote><span class="kdoc-tag"><h4 class="">Return</h4><ul><li><p class="paragraph"><a href="../-parakey-error/-invalid-credentials/index.html">InvalidCredentials</a> if <a href="configure.html">tokenBundle</a> is malformed</p></li><li><p class="paragraph"><a href="../-parakey-error/-invalid-token-bundle/index.html">InvalidTokenBundle</a> if unauthorized</p></li><li><p class="paragraph"><a href="../-parakey-error/-configure-failure/index.html">ConfigureFailure</a> if any other error (such as lack of network)</p></li><li><p class="paragraph"><code class="lang-kotlin">null</code> if no error</p></li></ul></span><h4 class="">Parameters</h4><div class="table"><div class="table-row" data-filterable-current=":sdk/release" data-filterable-set=":sdk/release"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><u><span>token</span><wbr></wbr><span><span>Bundle</span></span></u></div></span></div><div><div class="title"><p class="paragraph">the token bundle acquired through the Parakey API integration</p></div></div></div></div></div></div></div>
 </div>
     <div class="footer">
         <a href="#content" id="go-to-top-link" class="footer--button footer--button_go-to-top"></a>

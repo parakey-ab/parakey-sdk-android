@@ -1,4 +1,4 @@
-# ParakeySDK
+# Parakey SDK for Android
 
 ## Documentation
 

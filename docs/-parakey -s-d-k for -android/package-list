@@ -1,0 +1,17 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:co.parakey.sdk////PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/index.html
+$dokka.location:co.parakey.sdk/Parakey///PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/index.html
+$dokka.location:co.parakey.sdk/Parakey/configure/#kotlin.String/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/configure.html
+$dokka.location:co.parakey.sdk/Parakey/deconfigure/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/deconfigure.html
+$dokka.location:co.parakey.sdk/Parakey/initialize/#android.app.Application/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/initialize.html
+$dokka.location:co.parakey.sdk/Parakey/showScan/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/show-scan.html
+$dokka.location:co.parakey.sdk/ParakeyError.ConfigureFailure///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-configure-failure/index.html
+$dokka.location:co.parakey.sdk/ParakeyError.InvalidCredentials///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-invalid-credentials/index.html
+$dokka.location:co.parakey.sdk/ParakeyError.InvalidTokenBundle///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-invalid-token-bundle/index.html
+$dokka.location:co.parakey.sdk/ParakeyError.SessionMissing///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-session-missing/index.html
+$dokka.location:co.parakey.sdk/ParakeyError///PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/index.html
+$dokka.location:co.parakey.sdk/ParakeyError/entries/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/entries.html
+$dokka.location:co.parakey.sdk/ParakeyError/valueOf/#kotlin.String/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/value-of.html
+$dokka.location:co.parakey.sdk/ParakeyError/values/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/values.html
+co.parakey.sdk
