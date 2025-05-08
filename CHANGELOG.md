@@ -1,4 +1,5 @@
-Fixed:
+## [1.0.4-beta] - 2025-05-08
+### Fixed:
 - outdated copy when no keys received
 
 ## [1.0.3-beta] - 2025-05-06
