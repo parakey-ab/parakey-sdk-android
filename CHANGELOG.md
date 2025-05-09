@@ -1,3 +1,7 @@
+## [1.0.5-beta] - 2025-05-09
+### Fixed:
+- old logs missing metadata
+
 ## [1.0.4-beta] - 2025-05-08
 ### Fixed:
 - outdated copy when no keys received
