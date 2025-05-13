@@ -1,3 +1,10 @@
+## [1.1.0-beta] - 2025-05-13
+Added:
+- sdk: alert dialog when signed out
+
+Fixed:
+- too eager diagnostic submit behaviour
+
 ## [1.0.5-beta] - 2025-05-09
 ### Fixed:
 - old logs missing metadata
