@@ -1,3 +1,7 @@
+## [1.1.2-beta] - 2025-05-14
+Fixed:
+- sdk: database incorrectly removed when signed out
+
 ## [1.1.1-beta] - 2025-05-14
 Fixed:
 - event log mobile device metadata lowercased
