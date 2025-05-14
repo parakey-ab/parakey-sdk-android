@@ -1,3 +1,7 @@
+## [1.1.1-beta] - 2025-05-14
+Fixed:
+- event log mobile device metadata lowercased
+
 ## [1.1.0-beta] - 2025-05-13
 Added:
 - sdk: alert dialog when signed out
