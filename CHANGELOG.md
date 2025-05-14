@@ -1,3 +1,7 @@
+## [1.1.3-beta] - 2025-05-14
+Fixed:
+- sdk: database incorrectly removed when sdk deconfigured
+
 ## [1.1.2-beta] - 2025-05-14
 Fixed:
 - sdk: database incorrectly removed when signed out
