@@ -1,3 +1,6 @@
+## [1.1.4] - 2025-05-15
+No changes since last beta
+
 ## [1.1.4-beta] - 2025-05-15
 Fixed:
 - potential freeze when creating diagnostic
