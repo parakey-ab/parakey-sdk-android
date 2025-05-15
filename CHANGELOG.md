@@ -1,3 +1,7 @@
+## [1.1.4-beta] - 2025-05-15
+Fixed:
+- potential freeze when creating diagnostic
+
 ## [1.1.3-beta] - 2025-05-14
 Fixed:
 - sdk: database incorrectly removed when sdk deconfigured
