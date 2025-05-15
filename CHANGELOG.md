@@ -1,3 +1,7 @@
+## [1.1.5-beta] - 2025-05-15
+Fixed:
+- sdk: showScan blocking instead of suspending
+
 ## [1.1.4] - 2025-05-15
 No changes since last beta
 
