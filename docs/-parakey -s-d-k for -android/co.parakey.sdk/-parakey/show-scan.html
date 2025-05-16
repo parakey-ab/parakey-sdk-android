@@ -46,7 +46,7 @@
         </button>
         <div class="navigation-controls--break ui-kit_mobile-only"></div>
         <div class="library-version" id="library-version">
-v1.1.4        </div>
+v1.1.5        </div>
         <div class="navigation-controls">
         <div class="filter-section filter-section_loading" id="filter-section">
                 <button class="platform-tag platform-selector jvm-like" data-active=""
@@ -109,7 +109,7 @@ v1.1.4        </div>
   <div class="cover ">
     <h1 class="cover"><span>show</span><wbr></wbr><span><span>Scan</span></span></h1>
   </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk/release"><div class="symbol monospace"><span class="token keyword">fun </span><a href="show-scan.html"><span class="token function">showScan</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../-parakey-error/index.html">ParakeyError</a><span class="token operator">?</span></div><p class="paragraph">Opens a new activity which displays all nearby Parakey locks that the user has access to. Available locks can be unlocked from this view.</p><p class="paragraph">The activity will ask for any permissions needed by the SDK. Errors regarding invalid states such as <i>bluetooth disabled</i> are displayed to the user within the activity.</p><br/><blockquote class="quotation"><p class="paragraph">Note: Can't be called before <a href="initialize.html">initialize</a>.</p></blockquote><span class="kdoc-tag"><h4 class="">Return</h4><ul><li><p class="paragraph"><a href="../-parakey-error/-session-missing/index.html">SessionMissing</a> if the SDK is not <a href="configure.html">configured</a> with a valid token bundle</p></li><li><p class="paragraph"><code class="lang-kotlin">null</code> if no error - will launch a new activity</p></li></ul></span></div></div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk/release"><div class="symbol monospace"><span class="token keyword">suspend </span><span class="token keyword">fun </span><a href="show-scan.html"><span class="token function">showScan</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="../-parakey-error/index.html">ParakeyError</a><span class="token operator">?</span></div><p class="paragraph">Opens a new activity which displays all nearby Parakey locks that the user has access to. Available locks can be unlocked from this view.</p><p class="paragraph">The activity will ask for any permissions needed by the SDK. Errors regarding invalid states such as <i>bluetooth disabled</i> are displayed to the user within the activity.</p><br/><blockquote class="quotation"><p class="paragraph">Note: Can't be called before <a href="initialize.html">initialize</a>.</p></blockquote><span class="kdoc-tag"><h4 class="">Return</h4><ul><li><p class="paragraph"><a href="../-parakey-error/-session-missing/index.html">SessionMissing</a> if the SDK is not <a href="configure.html">configured</a> with a valid token bundle</p></li><li><p class="paragraph"><code class="lang-kotlin">null</code> if no error - will launch a new activity</p></li></ul></span></div></div>
 </div>
     <div class="footer">
         <a href="#content" id="go-to-top-link" class="footer--button footer--button_go-to-top"></a>
