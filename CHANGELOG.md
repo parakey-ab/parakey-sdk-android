@@ -1,3 +1,7 @@
+## [1.1.6-beta] - 2025-05-20
+Fixed:
+- event log created for cancelled event
+
 ## [1.1.5] - 2025-05-16
 No changes since last beta
 
