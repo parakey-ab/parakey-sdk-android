@@ -1,3 +1,8 @@
+## [1.1.8-beta] - 2025-05-20
+Fixed:
+- deprecated status codes not ignored
+- keystore access on ui thread
+
 ## [1.1.6-beta] - 2025-05-20
 Fixed:
 - event log created for cancelled event
