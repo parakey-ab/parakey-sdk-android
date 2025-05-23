@@ -1,3 +1,10 @@
+## [1.1.12-beta] - 2025-05-23
+Fixed:
+- sdk: missing screen when offline too long
+- no scan error when access is invalid
+- access not always updated when outdated
+- sdk: showScan not returning error when signed out
+
 ## [1.1.8-beta] - 2025-05-20
 Fixed:
 - deprecated status codes not ignored
