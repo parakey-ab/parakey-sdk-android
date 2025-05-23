@@ -1,3 +1,7 @@
+## [1.2.0-beta] - 2025-05-23
+Added:
+- silent actions
+
 ## [1.1.12-beta] - 2025-05-23
 Fixed:
 - sdk: missing screen when offline too long
