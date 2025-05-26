@@ -12,6 +12,7 @@ $dokka.location:co.parakey.sdk/ParakeyError.InvalidTokenBundle///PointingToDecla
 $dokka.location:co.parakey.sdk/ParakeyError.SessionMissing///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-session-missing/index.html
 $dokka.location:co.parakey.sdk/ParakeyError///PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/index.html
 $dokka.location:co.parakey.sdk/ParakeyError/entries/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/entries.html
+$dokka.location:co.parakey.sdk/ParakeyError/id/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/id.html
 $dokka.location:co.parakey.sdk/ParakeyError/valueOf/#kotlin.String/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/value-of.html
 $dokka.location:co.parakey.sdk/ParakeyError/values/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/values.html
 co.parakey.sdk

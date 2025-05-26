@@ -1,3 +1,6 @@
+## [1.3.0] - 2025-05-26
+No changes since last beta
+
 ## [1.3.0-beta] - 2025-05-26
 Added:
 - sdk: error identifiers
