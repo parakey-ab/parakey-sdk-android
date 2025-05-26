@@ -1,3 +1,7 @@
+## [1.3.0-beta] - 2025-05-26
+Added:
+- sdk: error identifiers
+
 ## [1.2.0-beta] - 2025-05-23
 Added:
 - silent actions
