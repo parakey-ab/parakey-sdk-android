@@ -1,3 +1,7 @@
+## [1.4.0-beta] - 2025-05-27
+Added:
+- norwegian translation
+
 ## [1.3.0] - 2025-05-26
 No changes since last beta
 
