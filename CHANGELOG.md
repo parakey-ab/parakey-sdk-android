@@ -1,3 +1,7 @@
+## [1.4.1-beta] - 2025-05-30
+Fixed:
+- scan done diagnostic log not created
+
 ## [1.4.0-beta] - 2025-05-27
 Added:
 - norwegian translation
