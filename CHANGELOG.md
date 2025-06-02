@@ -1,3 +1,7 @@
+## [1.5.0-beta] - 2025-06-02
+Added:
+- updated top bar design
+
 ## [1.4.1-beta] - 2025-05-30
 Fixed:
 - scan done diagnostic log not created
