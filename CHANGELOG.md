@@ -1,3 +1,7 @@
+## [1.6.1-beta] - 2025-06-02
+Fixed:
+- sdk: duplicate top bars
+
 ## [1.6.0-beta] - 2025-06-02
 Added:
 - sdk: frequently unlocked
