@@ -1,3 +1,7 @@
+## [1.5.1-beta] - 2025-06-02
+Fixed:
+- top bar color in dark mode
+
 ## [1.5.0-beta] - 2025-06-02
 Added:
 - updated top bar design
