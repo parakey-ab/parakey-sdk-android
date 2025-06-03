@@ -6,6 +6,7 @@ $dokka.location:co.parakey.sdk/Parakey/configure/#kotlin.String/PointingToDeclar
 $dokka.location:co.parakey.sdk/Parakey/deconfigure/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/deconfigure.html
 $dokka.location:co.parakey.sdk/Parakey/initialize/#android.app.Application/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/initialize.html
 $dokka.location:co.parakey.sdk/Parakey/showScan/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/show-scan.html
+$dokka.location:co.parakey.sdk/Parakey/theme/#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/theme.html
 $dokka.location:co.parakey.sdk/ParakeyError.ConfigureFailure///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-configure-failure/index.html
 $dokka.location:co.parakey.sdk/ParakeyError.InvalidCredentials///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-invalid-credentials/index.html
 $dokka.location:co.parakey.sdk/ParakeyError.InvalidTokenBundle///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-parakey -s-d-k for -android/co.parakey.sdk/-parakey-error/-invalid-token-bundle/index.html
