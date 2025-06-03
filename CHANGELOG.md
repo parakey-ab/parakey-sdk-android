@@ -1,3 +1,7 @@
+## [1.7.0-beta] - 2025-06-03
+Added:
+- sdk: custom colors
+
 ## [1.6.1-beta] - 2025-06-02
 Fixed:
 - sdk: duplicate top bars
