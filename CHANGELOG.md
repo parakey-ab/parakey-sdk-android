@@ -1,3 +1,10 @@
+## [1.9.0-beta] - 2025-06-05
+Added:
+- sdk: pull to refresh locks
+
+Fixed:
+- sdk: incorrect copy
+
 ## [1.8.0-beta] - 2025-06-05
 Added:
 - sdk: unlock preferences
