@@ -1,3 +1,7 @@
+## [1.8.0-beta] - 2025-06-05
+Added:
+- sdk: unlock preferences
+
 ## [1.7.0-beta] - 2025-06-03
 Added:
 - sdk: custom colors
