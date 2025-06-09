@@ -1,3 +1,9 @@
+## [1.9.3-beta] - 2025-06-09
+Fixed:
+- sdk: incorrect translation
+- sdk: no indication if key removed during scan
+- button styling
+
 ## [1.9.0-beta] - 2025-06-05
 Added:
 - sdk: pull to refresh locks
