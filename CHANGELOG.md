@@ -1,3 +1,8 @@
+## [1.9.6-beta] - 2025-06-10
+Fixed:
+- norwegian translation
+- error event log structure
+
 ## [1.9.4-beta] - 2025-06-10
 Fixed:
 - missing parsing error status code
