@@ -1,3 +1,7 @@
+## [1.9.4-beta] - 2025-06-10
+Fixed:
+- missing parsing error status code
+
 ## [1.9.3-beta] - 2025-06-09
 Fixed:
 - sdk: incorrect translation
