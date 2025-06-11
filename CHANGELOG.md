@@ -1,3 +1,8 @@
+## [1.9.8-beta] - 2025-06-11
+Fixed:
+- device error ignored during advanced crypto session
+- potential set time failure after dfu
+
 ## [1.9.6-beta] - 2025-06-10
 Fixed:
 - norwegian translation
