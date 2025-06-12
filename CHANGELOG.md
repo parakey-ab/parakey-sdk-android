@@ -1,3 +1,7 @@
+## [1.10.0-beta] - 2025-06-12
+Added:
+- cancellable unlock modal
+
 ## [1.9.9-beta] - 2025-06-12
 Fixed:
 - wrong app state http header value
