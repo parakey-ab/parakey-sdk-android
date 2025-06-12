@@ -1,3 +1,7 @@
+## [1.9.9-beta] - 2025-06-12
+Fixed:
+- wrong app state http header value
+
 ## [1.9.8-beta] - 2025-06-11
 Fixed:
 - device error ignored during advanced crypto session
