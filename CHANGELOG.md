@@ -1,3 +1,10 @@
+## [1.11.0-beta] - 2025-06-13
+Added:
+- sdk: auto dismiss after unlock
+
+Fixed:
+- sdk: missing padding
+
 ## [1.10.0-beta] - 2025-06-12
 Added:
 - cancellable unlock modal
