@@ -1,3 +1,7 @@
+## [1.12.0-beta] - 2025-06-16
+Added:
+- sdk: locks show as out of range
+
 ## [1.11.0-beta] - 2025-06-13
 Added:
 - sdk: auto dismiss after unlock
