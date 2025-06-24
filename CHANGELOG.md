@@ -1,3 +1,7 @@
+## [1.12.1-beta] - 2025-06-24
+Fixed:
+- sdk: incorrect alert
+
 ## [1.12.0-beta] - 2025-06-16
 Added:
 - sdk: locks show as out of range
