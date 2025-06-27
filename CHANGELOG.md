@@ -1,3 +1,6 @@
+## [1.12.1] - 2025-06-27
+No changes since last beta
+
 ## [1.12.1-beta] - 2025-06-24
 Fixed:
 - sdk: incorrect alert
