@@ -1,3 +1,6 @@
+## [1.12.2] - 2025-07-01
+No changes since last beta
+
 ## [1.12.2-beta] - 2025-07-01
 Fixed:
 - unnecessary access checks when not signed in
