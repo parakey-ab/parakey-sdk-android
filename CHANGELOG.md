@@ -1,3 +1,7 @@
+## [1.12.3-beta] - 2025-07-07
+Fixed:
+- incorrect side margin
+
 ## [1.12.2] - 2025-07-01
 No changes since last beta
 
