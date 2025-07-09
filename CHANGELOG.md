@@ -1,3 +1,8 @@
+## [1.12.5-beta] - 2025-07-09
+Fixed:
+- outdated copy
+- nfc restriction behavior
+
 ## [1.12.3-beta] - 2025-07-07
 Fixed:
 - incorrect side margin
