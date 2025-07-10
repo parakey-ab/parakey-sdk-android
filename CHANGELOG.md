@@ -1,3 +1,7 @@
+## [1.13.0-beta] - 2025-07-10
+Added:
+- unlock confirmation prompt
+
 ## [1.12.5-beta] - 2025-07-09
 Fixed:
 - outdated copy
