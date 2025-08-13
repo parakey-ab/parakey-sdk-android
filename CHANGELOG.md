@@ -1,3 +1,6 @@
+## [1.13.1] - 2025-08-13
+No changes since last beta
+
 ## [1.13.1-beta] - 2025-08-13
 Fixed:
 - incompatible kotlin version
