@@ -1,3 +1,7 @@
+## [1.13.1-beta] - 2025-08-13
+Fixed:
+- incompatible kotlin version
+
 ## [1.13.0-beta] - 2025-07-10
 Added:
 - unlock confirmation prompt
