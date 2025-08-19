@@ -1,3 +1,7 @@
+## [1.13.2-beta] - 2025-08-19
+Fixed:
+- unlock timeouts not dynamic
+
 ## [1.13.1] - 2025-08-13
 No changes since last beta
 
