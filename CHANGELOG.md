@@ -1,3 +1,8 @@
+## [1.13.4-beta] - 2025-08-27
+Fixed:
+- wrong color in dark mode
+- incorrect scan failure alert
+
 ## [1.13.2-beta] - 2025-08-19
 Fixed:
 - unlock timeouts not dynamic
