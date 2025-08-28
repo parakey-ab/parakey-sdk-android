@@ -1,3 +1,8 @@
+## [1.13.6-beta] - 2025-08-28
+Fixed:
+- scan not always stopped when backgrounded
+- unlock failure when offline too long
+
 ## [1.13.4-beta] - 2025-08-27
 Fixed:
 - wrong color in dark mode
