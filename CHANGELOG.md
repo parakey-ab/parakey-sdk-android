@@ -1,3 +1,7 @@
+## [1.13.7-beta] - 2025-09-11
+Fixed:
+- PTR loading indicator shown incorrectly
+
 ## [1.13.6-beta] - 2025-08-28
 Fixed:
 - scan not always stopped when backgrounded
