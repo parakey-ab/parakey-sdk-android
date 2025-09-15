@@ -1,3 +1,7 @@
+## [1.13.8-beta] - 2025-09-15
+Fixed:
+- unlock success vibrating too early in special case
+
 ## [1.13.7-beta] - 2025-09-11
 Fixed:
 - PTR loading indicator shown incorrectly
