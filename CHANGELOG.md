@@ -1,3 +1,6 @@
+## [1.13.8] - 2025-09-22
+No changes since last beta
+
 ## [1.13.8-beta] - 2025-09-15
 Fixed:
 - unlock success vibrating too early in special case
