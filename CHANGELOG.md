@@ -1,3 +1,7 @@
+## [1.13.9-beta] - 2025-09-24
+Fixed:
+- missing activity property in manifest
+
 ## [1.13.8] - 2025-09-22
 No changes since last beta
 
