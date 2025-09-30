@@ -1,3 +1,7 @@
+## [1.13.10-beta] - 2025-09-30
+Fixed:
+- configuring new token not overwriting previous
+
 ## [1.13.9-beta] - 2025-09-24
 Fixed:
 - missing activity property in manifest
