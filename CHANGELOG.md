@@ -1,3 +1,7 @@
+## [1.13.11-beta] - 2025-10-09
+Fixed:
+- data not completely cleared when configuring unauthorized account
+
 ## [1.13.10-beta] - 2025-09-30
 Fixed:
 - configuring new token not overwriting previous
