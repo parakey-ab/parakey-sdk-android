@@ -1,3 +1,7 @@
+## [1.13.12-beta] - 2025-10-22
+Fixed:
+- frequently unlocked not associated with account
+
 ## [1.13.11-beta] - 2025-10-09
 Fixed:
 - data not completely cleared when configuring unauthorized account
