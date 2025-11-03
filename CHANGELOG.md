@@ -1,3 +1,8 @@
+## [1.13.14-beta] - 2025-11-03
+Fixed:
+- wrong loading indicator animation
+- update icons
+
 ## [1.13.12-beta] - 2025-10-22
 Fixed:
 - frequently unlocked not associated with account
