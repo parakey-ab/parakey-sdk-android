@@ -1,3 +1,7 @@
+## [1.13.17-beta] - 2025-11-06
+Fixed:
+- crash
+
 ## [1.13.16-beta] - 2025-11-06
 Fixed:
 - inconsistent behaviour when turning on location
