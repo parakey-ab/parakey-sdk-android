@@ -1,3 +1,8 @@
+## [1.13.16-beta] - 2025-11-06
+Fixed:
+- inconsistent behaviour when turning on location
+- bluetooth permissions for secondary profile
+
 ## [1.13.14-beta] - 2025-11-03
 Fixed:
 - wrong loading indicator animation
