@@ -1,3 +1,7 @@
+## [1.14.0-beta] - 2025-11-07
+Added:
+- norwegian translation
+
 ## [1.13.17-beta] - 2025-11-06
 Fixed:
 - crash
