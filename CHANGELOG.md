@@ -1,3 +1,7 @@
+## [1.14.2-beta] - 2025-11-25
+Fixed:
+- incorrect diagnostic parameter name
+
 ## [1.14.1-beta] - 2025-11-21
 Fixed:
 - incorrect diagnostic parameter name
