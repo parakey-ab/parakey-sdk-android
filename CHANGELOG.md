@@ -1,3 +1,7 @@
+## [1.15.1-beta] - 2025-12-05
+Fixed:
+- redundant status check
+
 ## [1.15.0-beta] - 2025-11-27
 Added:
 - add result to refresh keys diagnostic
