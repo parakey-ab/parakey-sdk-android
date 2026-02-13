@@ -1,6 +1,12 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:co.parakey.sdk////PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/index.html
+$dokka.location:co.parakey.sdk/AppStatus///PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/index.html
+$dokka.location:co.parakey.sdk/AppStatus/AppStatus/#co.parakey.sdk.util.App/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/-app-status.html
+$dokka.location:co.parakey.sdk/AppStatus/get/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/get.html
+$dokka.location:co.parakey.sdk/AppStatus/observe/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/observe.html
+$dokka.location:co.parakey.sdk/AppStatus/status/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/status.html
+$dokka.location:co.parakey.sdk/AppStatus/update/#co.parakey.sdk.network.request.AppStatus/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-app-status/update.html
 $dokka.location:co.parakey.sdk/Parakey///PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/index.html
 $dokka.location:co.parakey.sdk/Parakey/configure/#kotlin.String/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/configure.html
 $dokka.location:co.parakey.sdk/Parakey/deconfigure/#/PointingToDeclaration/-parakey -s-d-k for -android/co.parakey.sdk/-parakey/deconfigure.html
