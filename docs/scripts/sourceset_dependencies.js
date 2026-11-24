@@ -1,1 +1,1 @@
-sourceset_dependencies='{":sdk/controlUnit":[],":sdk/local":[],":sdk/localControlUnit":[],":sdk/localControlUnitRelease":[],":sdk/localNoControlUnit":[],":sdk/localNoControlUnitRelease":[],":sdk/main":[],":sdk/noControlUnit":[],":sdk/release":[],":sdk/remote":[],":sdk/remoteControlUnit":[],":sdk/remoteControlUnitRelease":[],":sdk/remoteNoControlUnit":[],":sdk/remoteNoControlUnitRelease":[]}'
+sourceset_dependencies='{":sdk/remoteNoControlUnitRelease":[]}'
